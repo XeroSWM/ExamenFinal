@@ -1,0 +1,9 @@
+transformers
+torch
+torchvision
+torchaudio
+tensorflow-cpu
+flask
+flask-cors
+tf-keras
+streamlit
